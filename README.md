@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saankhya Srikanth<br><br>1st Year CSE @ PES University<br>Systems • Security • Building Frame (Design Intelligence Ecosystem)<br><br>Exploring low-level computing, operating systems, and system security, with a focus on defensive cybersecurity, vulnerability analysis, and mitigation techniques.
+Saankhya Srikanth<br><br>1st Year CSE @ PES University<br>Systems • Security • Building Frame (Design Intelligence Ecosystem)<br><br>Exploring low-level computing, operating systems and system security, with a focus on defensive cybersecurity, vulnerability analysis, and mitigation techniques.
 
 
 # 💻 Tech Stack:
