@@ -1,5 +1,9 @@
 # About Me
-Saankhya Srikanth<br><br>2nd Year CSE @ PES University<br>Systems • Security<br><br>Exploring low-level computing, operating systems and system security with a focus on defensive cybersecurity, vulnerability analysis and mitigation techniques.
+Saankhya Srikanth<br><br>
+2nd Year CSE @ PES University<br>
+Systems • Security<br><br>
+Exploring low-level systems, operating systems and security with a focus on vulnerability analysis and defensive security.
+
 
 
 # 💻 Tech Stack:
