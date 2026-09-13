@@ -2,9 +2,9 @@
 Saankhya Srikanth<br><br>
 2nd Year CSE @ PES University<br>
 Systems • Security<br><br>
-Exploring low-level systems, operating systems and security with a focus on vulnerability analysis and defensive security.
+Exploring low level systems, operating systems and security/
 
-
+https://saankleo.github.io/Saankhyas_Kennel/
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
